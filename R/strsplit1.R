@@ -7,3 +7,4 @@ strsplit1 <- function(x, split) {
 }
 
 #use_r("name") open/create new file in R directory
+#load_all() allows using the function even if its not in globenv
